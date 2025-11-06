@@ -5,7 +5,7 @@ Homebrew tap for installing the qqqa CLI.
 ## Usage
 
 ```
-brew tap yourorg/qqqa https://github.com/yourorg/homebrew-qqqa
+brew tap iagooar/qqqa https://github.com/iagooar/homebrew-qqqa
 brew install qqqa
 ```
 
