@@ -2,7 +2,7 @@ class Qqqa < Formula
   desc "Fast, stateless LLM assistant (qq/qa)"
   homepage "https://github.com/iagooar/qqqa"
   url "https://github.com/iagooar/qqqa/releases/download/v0.8.4/qqqa-v0.8.4-src.tar.gz"
-  sha256 "81e8ac7dde70d3ad8ccb8709428eabd62285d79708ac1932f01d452d0010f934"
+  sha256 "081b89e9f35a7525f933938d663db098c37c0c714054d68f2319b00cd15b7264"
   version "0.8.4"
   license "MIT"
 
