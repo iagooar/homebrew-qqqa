@@ -1,9 +1,9 @@
 class Qqqa < Formula
   desc "Fast, stateless LLM assistant (qq/qa)"
   homepage "https://github.com/iagooar/qqqa"
-  url "https://github.com/iagooar/qqqa/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a1274ad02b74ccab7be9dbe2034cdcc817096ad8067c1d42b639a40c94abf864"
-  version "1.0.0"
+  url "https://github.com/iagooar/qqqa/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "b7360c786ed2dba34426d1dde44d669f17570fd5f2205392eaa8d2e789cf6a3c"
+  version "1.1.0"
   license "MIT"
 
   depends_on "rust" => :build
